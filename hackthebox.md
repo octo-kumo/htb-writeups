@@ -1,6 +1,6 @@
 ---
 created: 2024-07-18T08:33
-updated: 2024-09-24T21:43
+updated: 2025-07-14T09:46
 title: HackTheBox Notes
 ---
 

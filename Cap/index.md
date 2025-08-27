@@ -1,6 +1,6 @@
 ---
 created: 2024-09-24T21:48
-updated: 2024-09-24T23:02
+updated: 2025-08-18T09:17
 description: My first proper linux privilege escalation!
 ---
 
